@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nas.Upp2.props" />
+</Project>
